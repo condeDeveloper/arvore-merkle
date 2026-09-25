@@ -1,0 +1,6 @@
+# Bloco 91722 da cadeia principal do Bitcoin, capturado de
+# https://blockstream.info/api/block/00000000000271a2dc26e7667f8419f2e15416dc6955e5a6c6cdf3f2574dd08e/txids em 2026-09-25.
+# A primeira linha util e a raiz de Merkle publicada; as seguintes
+# sao os txid na ordem do bloco.
+raiz=e3bf3d07d4b0375638d5f1db5255fe07ba2c4cb067cd81b84ee974b6585fb468
+e3bf3d07d4b0375638d5f1db5255fe07ba2c4cb067cd81b84ee974b6585fb468
